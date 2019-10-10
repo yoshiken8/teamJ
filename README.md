@@ -2,4 +2,4 @@
 lang: java
 
 ## member
-
+- kenta yoshikawa
