@@ -2,6 +2,7 @@
 lang: java
 
 ## member
+- takumi nakashima
 
 - yurina tanase
 - kenta yoshikawa
