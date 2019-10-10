@@ -2,4 +2,6 @@
 lang: java
 
 ## member
+
+- yurina tanase
 - kenta yoshikawa
